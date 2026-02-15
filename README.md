@@ -36,7 +36,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## ☕ Support & Services
 
 Found this script helpful? You can support my work by buying me a coffee! 
-<a href="buymeacoffee.com/thilii_music" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
+<a href="https://buymeacoffee.com/thilii_music" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
 
 
 ### 🛠️ Need Professional Setup?
