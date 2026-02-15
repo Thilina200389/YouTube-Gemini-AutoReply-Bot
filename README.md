@@ -51,7 +51,7 @@ I offer a **Complete Setup Service** where I will:
 👉 **[Click Here to Request Setup / DM Me](http://wa.me/+94787769314)** or email me at: `thilinasandakelum2003@gmail.com`
 
 ### 📬 Connect with Me
-* **LinkedIn:** [Thilina Sandakelum](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe/)
+* **LinkedIn:** [Thilina Sandakelum Wijesinghe](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe/)
 
 ---
 *Experimental project by Thilina Sandakelum Wijesinghe.*
