@@ -24,5 +24,14 @@ An automated YouTube comment reply system designed for my music channel, **Psyco
 ## ⚠️ Setup Note
 To use this script, you must replace `YOUR_GEMINI_API_KEY_HERE` and `YOUR_CHANNEL_ID_HERE` in the `Code.gs` file with your actual credentials.
 
+## ⚠️ Disclaimer & Usage Caution
+This script is developed for **educational and experimental purposes only**. Automated interactions on YouTube must comply with the [YouTube Terms of Service](https://www.youtube.com/t/terms) and [Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/).
+
+* **Rate Limits:** Do not set the execution frequency too high (recommended: once every 10-15 minutes). Excessive usage may trigger YouTube's spam filters.
+* **Liability:** The author (Thilina Sandakelum Wijesinghe) is not responsible for any channel penalties, API quota costs, or bans resulting from the misuse of this script. Use it responsibly at your own risk.
+
+## 📄 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 ---
 *Experimental project by Thilina Sandakelum Wijesinghe.*
