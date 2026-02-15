@@ -33,5 +33,24 @@ This script is developed for **educational and experimental purposes only**. Aut
 ## 📄 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
+## ☕ Support & Services
+
+Found this script helpful? You can support my work by buying me a coffee! 
+<a href="buymeacoffee.com/thilii_music" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+### 🛠️ Need Professional Setup?
+Not comfortable with coding or APIs? No worries! 
+
+I offer a **Complete Setup Service** where I will:
+* Configure the Google Cloud Project & YouTube API.
+* Set up the Gemini AI connection.
+* Deploy the script securely for your channel.
+
+**💰 Service Fee: $5 (or LKR Equivalent)**
+👉 **[Click Here to Request Setup / DM Me](http://wa.me/+94787769314)** or email me at: `thilinasandakelum2003@gmail.com`
+
+### 📬 Connect with Me
+* **LinkedIn:** [Thilina Sandakelum](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe/)
+
 ---
 *Experimental project by Thilina Sandakelum Wijesinghe.*
