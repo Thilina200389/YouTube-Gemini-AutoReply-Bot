@@ -37,6 +37,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 Found this script helpful? You can support my work by buying me a coffee! 
 <a href="buymeacoffee.com/thilii_music" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+
 
 ### 🛠️ Need Professional Setup?
 Not comfortable with coding or APIs? No worries! 
