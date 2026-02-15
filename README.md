@@ -11,7 +11,7 @@ An automated YouTube comment reply system designed for my music channel, **Psyco
 
 ## 🛠️ Tech Stack
 * **Platform:** Google Apps Script
-* **AI Model:** Google Gemini 3 Flash via REST API
+* **AI Model:** Google Gemini 3 Flash Preview via REST API
 * **Integration:** YouTube Data API v3
 
 ## ⚙️ How It Works
