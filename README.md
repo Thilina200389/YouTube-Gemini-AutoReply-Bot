@@ -47,7 +47,7 @@ I offer a **Complete Setup Service** where I will:
 * Deploy the script securely for your channel.
 
 **💰 Service Fee: $5 (or LKR Equivalent)**
-👉 **[Click Here to Request Setup / DM Me] (http://wa.me/+94787769314)** or email me at: `thilinasandakelum2003@gmail.com`
+👉 **[Click Here to Request Setup / DM Me](http://wa.me/+94787769314)** or email me at: `thilinasandakelum2003@gmail.com`
 
 ### 📬 Connect with Me
 * **LinkedIn:** [Thilina Sandakelum](https://www.linkedin.com/in/thilina-sandakelum-wijesinghe/)
