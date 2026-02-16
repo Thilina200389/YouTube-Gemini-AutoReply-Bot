@@ -141,7 +141,7 @@ function getGeminiResponse(commentText) {
 
 // to check your available google's api models (v1beta)
 function checkMyModels() {
-  const apiKey = "AIzaSyBoqzmy_ylnWVhdcIgyxcUjqOhS_YfAhik"; 
+  const apiKey = "YOUR_GEMINI_API_KEY_HERE"; 
   const url = `https://generativelanguage.googleapis.com/v1beta/models?key=${apiKey}`;
   const response = UrlFetchApp.fetch(url, {muteHttpExceptions: true});
   const json = JSON.parse(response.getContentText());
